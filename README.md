@@ -11,9 +11,9 @@ Click on the "Load unpacked extension" button.
 Select the directory containing unpacked extension.
 
 ### Screenshots
-![alt tag](https://raw.githubusercontent.com/RaghavaDhanya/Codesnap/master/screenshots/screenshot.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/RaghavaDhanya/Codesnap/master/screenshots/screenshot.jpg)
 
-![alt tag](https://raw.githubusercontent.com/RaghavaDhanya/Codesnap/master/screenshots/screenshot2.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/RaghavaDhanya/Codesnap/master/screenshots/screenshot2.jpg)
 
 ## License
 
